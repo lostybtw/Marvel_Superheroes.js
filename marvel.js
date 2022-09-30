@@ -6,6 +6,15 @@
     "SuperPower": "Powered Armor"
     },
     
+
+
+     {
+    "Character Name": "captain america ",
+    "Reel Name": "stev rogurs",
+    "Actor Name": "stev rogurs",
+    "SuperPower": "sheild"
+    },
+
     
     
     
@@ -52,6 +61,7 @@
     "SuperPower": "incredible speed"
     },
     
+
     {
     "Character Name": "Dr Strange",
     "Reel Name": "Dr Steven Strange",
