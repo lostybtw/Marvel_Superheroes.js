@@ -7,6 +7,15 @@
     },
     
     
+    
+    {
+    "Character Name": "Thor",
+    "Reel Name": "Thor",
+    "Actor Name": "Chris Hemsworth",
+    "SuperPower": "God Of thunder"
+    },
+    
+    
    
      {
     "Character Name": "Blackwidow",
@@ -39,3 +48,4 @@
     },
     
 ]
+
