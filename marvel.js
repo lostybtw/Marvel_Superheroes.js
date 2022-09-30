@@ -11,4 +11,12 @@
     "Actor Name": "andrew garfieldr",
     "SuperPower": "incredible speed"
     },
-    ]
+    
+    {
+    "Character Name": "Dr Strange",
+    "Reel Name": "Dr Steven Strange",
+    "Actor Name": "Benedict Timothy Carlton Cumberbatch",
+    "SuperPower": "Mystic arts"
+    },
+    
+]
