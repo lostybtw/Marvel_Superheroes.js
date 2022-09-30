@@ -5,6 +5,17 @@
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
+    
+    
+   
+     {
+    "Character Name": "Blackwidow",
+    "Reel Name": "Scarleget",
+    "Actor Name": "scarlet jonson",
+    "SuperPower": "Magic power"
+    },
+    
+    
 
      {
     "Character Name": "Thor",
@@ -28,4 +39,3 @@
     },
     
 ]
-
