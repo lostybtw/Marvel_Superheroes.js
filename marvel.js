@@ -7,6 +7,14 @@
     },
 
     {
+    "Character Name": "Captain Marvel",
+    "Reel Name": "Carol Danvers",
+    "Actor Name": "Brie Larson",
+    "SuperPower": "enhanced strength, stamina, agility, and durability, as well as flight, and almost total immunity to toxins and poisons."
+    },
+  
+
+    {
     "Character Name": "bruce banner",
     "Reel Name": "edward norton",
     "Actor Name": "mark ruffalo ",
@@ -86,4 +94,5 @@
     },
     
 ]
+
 
