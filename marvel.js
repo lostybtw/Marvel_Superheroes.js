@@ -8,6 +8,18 @@
     
     
     
+    
+    
+    {
+    "Character Name": "Thor",
+    "Reel Name": "thor odinson",
+    "Actor Name": "chris hemsworth",
+    "SuperPower": "electricity manipulation"
+    },
+    
+    
+    
+    
     {
     "Character Name": "Thor",
     "Reel Name": "Thor",
