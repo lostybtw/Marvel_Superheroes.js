@@ -6,6 +6,27 @@
     "SuperPower": "Powered Armor"
     },
 
+    
+    
+    
+    {
+    "Character Name": "Thor",
+    "Reel Name": "Thor",
+    "Actor Name": "Chris Hemsworth",
+    "SuperPower": "God Of thunder"
+    },
+    
+    
+   
+     {
+    "Character Name": "Blackwidow",
+    "Reel Name": "Scarleget",
+    "Actor Name": "scarlet jonson",
+    "SuperPower": "Magic power"
+    },
+    
+    
+
      {
     "Character Name": "Thor",
     "Reel Name": " Taika Waititi",
