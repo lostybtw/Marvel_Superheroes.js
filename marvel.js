@@ -6,6 +6,16 @@
     "SuperPower": "Powered Armor"
     },
 
+   
+   
+    {
+    "character name": "thor",
+    "reel name":  "thor odinson",
+    "actor name":  "chris hemsworth",
+    "superpower":  "god of thunder",
+    },
+   
+
     {
     "Character Name": "Captain Marvel",
     "Reel Name": "Carol Danvers",
@@ -94,5 +104,6 @@
     },
     
 ]
+
 
 
