@@ -6,6 +6,7 @@
     "SuperPower": "Powered Armor"
     },
 
+
        {
     "Character Name": "Doctor Strange",
     "Reel Name": "Doctor Stephen Vincent Strange",
@@ -68,6 +69,7 @@
     "SuperPower": "electricity manipulation"
     },
     
+
     
     
     
@@ -104,9 +106,18 @@
     },
     
 
+
     {
     "Character Name": "Dr Strange",
     "Reel Name": "Dr Steven Strange",
+    "Actor Name": "Benedict Timothy Carlton Cumberbatch",
+    "SuperPower": "Mystic arts"
+    },
+    
+    
+     {
+    "Character Name": "She Hulk",
+    "Reel Name": "Scarlet",
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
     "SuperPower": "Mystic arts"
     },
