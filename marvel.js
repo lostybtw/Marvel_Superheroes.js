@@ -27,5 +27,12 @@
     "SuperPower": "Mystic arts"
     },
     
+    {
+    "Character Name": "Ant-man",
+    "Reel Name": " Taika Waititi",
+    "Actor Name": "Scott lang",
+    "SuperPower": "Ability to shrink to sub-microscopic size and enter the subatomic universes."
+    },
+    
 ]
 
