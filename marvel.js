@@ -37,5 +37,11 @@
     "Actor Name": "Benedict Timothy Carlton Cumberbatch",
     "SuperPower": "Mystic arts"
     },
-    
+
+    {
+        "Character Name":"Captain America"
+        "Reel Name":"Steve Rogers"
+        "Actor Name":"Chris Evans"
+        "SuperPower":"Superhuman Strength and a vibranium sheild"
+        },
 ]
