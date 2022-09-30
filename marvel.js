@@ -5,6 +5,14 @@
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
+
+        {
+    "Character Name": "Black panther",
+    "Reel Name": "Tony Stark",
+    "Actor Name": "Robert Downey Jr",
+    "SuperPower": "Powered Armor"
+    },
+   
     
 
 
@@ -70,4 +78,3 @@
     },
     
 ]
-
