@@ -5,6 +5,12 @@
     "Actor Name": "Robert Downey Jr",
     "SuperPower": "Powered Armor"
     },
+        {
+    "Character Name": "spider man",
+    "Reel Name": "Tony Stark",
+    "Actor Name": "andrew garfieldr",
+    "SuperPower": "incredible speed"
+    },
     
     {
     "Character Name": "Dr Strange",
