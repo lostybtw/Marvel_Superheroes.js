@@ -6,6 +6,7 @@
     "SuperPower": "Powered Armor"
     },
     
+
      {
     "Character Name": "captain america ",
     "Reel Name": "stev rogurs",
@@ -13,3 +14,13 @@
     "SuperPower": "sheild"
     },
     ]
+
+    {
+    "Character Name": "Dr Strange",
+    "Reel Name": "Dr Steven Strange",
+    "Actor Name": "Benedict Timothy Carlton Cumberbatch",
+    "SuperPower": "Mystic arts"
+    },
+    
+]
+
