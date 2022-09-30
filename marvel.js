@@ -6,6 +6,14 @@
     "SuperPower": "Powered Armor"
     },
 
+    {
+    "Character Name": "bruce banner",
+    "Reel Name": "edward norton",
+    "Actor Name": "mark ruffalo ",
+    "SuperPower": "durability"
+    },
+  
+
         {
     "Character Name": "Black panther",
     "Reel Name": "Tony Stark",
@@ -78,3 +86,4 @@
     },
     
 ]
+
